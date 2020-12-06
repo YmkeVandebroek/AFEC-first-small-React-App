@@ -1,0 +1,46 @@
+{
+   "cd": [
+
+      {
+         "title":"The Jazz Age",
+         "artist": "The Bryan Ferry Orchestra",
+         "year": "2012",
+         "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/TheJazzAge2012.jpg/220px-TheJazzAge2012.jpg"
+      },
+
+      {
+         "title":"Bittersweet",
+         "artist": "Bryan Ferry",
+         "year": "2018",
+         "img": "https://upload.wikimedia.org/wikipedia/en/d/d9/Bryan_Ferry_%E2%80%93_Bitter-Sweet.png"
+      },
+
+      {
+         "title":"Country Life",
+         "artist": "Roxy Music",
+         "year": "1974",
+         "img": "https://www.popsike.com/pix/20110905/380367374342.jpg"
+      },
+
+      {
+         "title":"Queen 2",
+         "artist": "Queen",
+         "year": "1973",
+         "img": "https://www.udiscovermusic.com/wp-content/uploads/2019/03/Queen-II-album-cover-820.jpg"
+      },
+
+      {
+         "title":"The Essential Simon & Garfunkel",
+         "artist": "Simon & Garfunkel",
+         "year": "2010",
+         "img": "https://media.s-bol.com/mZw0pj18Ym8n/550x544.jpg"
+      },
+
+      {
+         "title":"Legacy",
+         "artist": "David Bowie",
+         "year": "2017",
+         "img": "https://www.alexmarmusic.com.pe/wp-content/uploads/2019/05/david-bowie-legacy-vinilo-doble-nuevo-sellado-obivinilos-D_NQ_NP_604891-MLC28326995212_102018-F-1.jpg"
+      }
+   ]
+}
